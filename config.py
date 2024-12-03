@@ -14,7 +14,7 @@ API_HASH = "be2e07ad90b5c8b5d368cb4efd302568"
 BOT_TOKEN = "7959845792:AAG5xEToJNEt3ufVPR_oRxev7NsRl8WSFqg"
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = "mongodb+srv://Shivam9910:@Shivam99108870@cluster0.na2ub.mongodb.net/"
+MONGO_DB_URI = "mongodb+srv://SHIVAM:SHIVAM9910887018@shivam.chooc.mongodb.net/?retryWrites=true&w=majority&appName=SHIVAM"
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
