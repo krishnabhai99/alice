@@ -19,7 +19,7 @@ MONGO_DB_URI = "mongodb+srv://Shivam9910:@Shivam99108870@cluster0.na2ub.mongodb.
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = LOG_GROUP_ID
+LOG_GROUP_ID = -1002293921199
 
 # Get this value from @ultron2_robot on Telegram by /id
 OWNER_ID = 5446367898
@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = "https://t.me/thanos_pro"
-SUPPORT_GROUP = "https://t.me/thanosprosss"
+SUPPORT_CHANNEL = "https://t.me/Animes_India_bot"
+SUPPORT_GROUP = "https://t.me/Animes_India_bots_support_group"
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2145386496))
 
 
 # Get your pyrogram v2 session from Replit
-STRING1 = "STRING_SESSION"
+STRING1 = "BQHJLOcAGRJ72-7crPWjyXJ6wIBZlTKKYjiq4fj8pohDMYTQ8dY0wwNiQzW4RDF3kdOF6fdf9GWPZjDGmZ4HdfpYhqOiTDBntEuuBFe9v7OxdMKusXy0wWJl5sBNvm6iGgBhqe94JYN2QqbinUozUZu_OQeKvitT9seLjnE0cX9fyr92-zujlgprBMgSE9QjyeUNDO9nI_OkX9Nj1JeTPuXe_kxz036sSGWWBY8XbGD3A02X2AzbvDtAIUM1214M4bJHGkcVFY043UCSG6p72qItwh57yI7euzpMAgMamyDyidmAnVwlpt5YTaaavU6M6Mr91b6czZaiuHLtf5-rZdCZVWf3BwAAAAFsEZ8KAA"
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
